@@ -1,0 +1,2 @@
+2 pins are wrongly configured. we cannot use it as GPIO.
+
