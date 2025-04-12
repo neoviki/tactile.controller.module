@@ -26,7 +26,7 @@ The module is primarily used to sample sensor data from high-density tactile con
 <img src="img/tacctr.board.layout.png" alt="Board Layout" width="300"/>
 
 **Schematics**  
-<img src="img/tacctr.schematics.png" alt="Schematics" width="600"/>
+![Schematics](img/tacctr.schematics.png)
 
 ## Additional Details
 
