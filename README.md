@@ -4,14 +4,14 @@ The **Tactile Controller Module** is a compact, high-performance interface board
 
 ## Features
 
-- **Microcontroller:** PIC32MM0256GPM036 (UQFN-40)
+- **Microcontroller:** PIC32MM0256GPM036 (UQFN-40)  
 - **Protocols Supported:**
-  - I²C
-  - Hardware SPI (HW SPI)
-  - Software SPI (SW SPI)
+  - I²C  
+  - Hardware SPI (HW SPI)  
+  - Software SPI (SW SPI)  
 - **Application:** 
-  - Interfaces with high-density tactile sensor arrays
-  - Suitable for applications requiring customizable sampling and interfacing logic
+  - Interfaces with high-density tactile sensor arrays  
+  - Suitable for applications requiring customizable sampling and interfacing logic  
 
 ## Use Case
 
@@ -19,15 +19,17 @@ The module is primarily used to sample sensor data from high-density tactile con
 
 ## Board Images
 
-| Description              | Image                             |
-|--------------------------|-----------------------------------|
-| Populated Module         | ![Populated Module](img/tacctr.populated.module.png) |
-| Board Layout             | ![Board Layout](img/tacctr.board.layout.png)         |
-| Schematics               | ![Schematics](img/tacctr.schematics.png)             |
+**Populated Module**  
+<img src="img/tacctr.populated.module.png" alt="Populated Module" width="300"/>
+
+**Board Layout**  
+<img src="img/tacctr.board.layout.png" alt="Board Layout" width="400"/>
+
+**Schematics**  
+<img src="img/tacctr.schematics.png" alt="Schematics" width="400"/>
 
 ## Additional Details
 
-- **Pin headers** are provided for programming the mcu and interfacing with external sensors and components.
-- **Low-power operation** and compact form factor make it ideal for embedded systems and portable tactile solutions.
+- **Pin headers** are provided for programming the MCU and interfacing with external sensors and components.  
+- **Low-power operation** and compact form factor make it ideal for embedded systems and portable tactile solutions.  
 - Firmware development and sensor interfacing can be customized based on specific application needs.
-
