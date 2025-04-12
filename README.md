@@ -33,3 +33,32 @@ The module is primarily used to sample sensor data from high-density tactile con
 - **Pin headers** are provided for programming the MCU and interfacing with external sensors and components.  
 - **Low-power operation** and compact form factor make it ideal for embedded systems and portable tactile solutions.  
 - Firmware development and sensor interfacing can be customized based on specific application needs.
+
+---
+
+## License
+
+This project is licensed under the **BSD 2-Clause License**.  
+See the [`LICENSE`](LICENSE) file for full license text.
+
+## Usage and Attribution
+
+You are welcome to **use, modify, or build upon this design** for personal, academic, or commercial purposes.  
+If you use or adapt any part of this work, **please credit the original author**:
+
+**V. Natarajan**
+
+For academic usage, you may cite this repository using the following BibTeX entry:
+
+```bibtex
+@misc{vnatarajan_tactile_controller_module,
+  author       = {V. Natarajan},
+  title        = {Tactile Controller Module},
+  year         = {2025},
+  howpublished = {\url{https://github.com/neoviki/tactile.controller.module}},
+  note         = {Accessed: 2025-04-11}
+
+}
+```
+
+> 📎 Attribution helps support and recognize open-source contributions — thank you!
