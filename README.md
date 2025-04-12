@@ -23,10 +23,10 @@ The module is primarily used to sample sensor data from high-density tactile con
 <img src="img/tacctr.populated.module.png" alt="Populated Module" width="300"/>
 
 **Board Layout**  
-<img src="img/tacctr.board.layout.png" alt="Board Layout" width="400"/>
+<img src="img/tacctr.board.layout.png" alt="Board Layout" width="300"/>
 
 **Schematics**  
-<img src="img/tacctr.schematics.png" alt="Schematics" width="400"/>
+<img src="img/tacctr.schematics.png" alt="Schematics" width="600"/>
 
 ## Additional Details
 
