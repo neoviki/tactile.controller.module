@@ -22,9 +22,8 @@ The module is primarily used to sample sensor data from high-density tactile con
 | Description              | Image                             |
 |--------------------------|-----------------------------------|
 | Populated Module         | ![Populated Module](img/tacctr.populated.module.png) |
-| Board Layout             | ![Board Layout](img/board.layout.png)         |
-| Schematics               | ![Schematics](img/schematics.png)             |
-| Fabricated PCB           | ![Fabricated PCB](img/fabricated.pcb.png)     |
+| Board Layout             | ![Board Layout](img/tacctr.board.layout.png)         |
+| Schematics               | ![Schematics](img/tacctr.schematics.png)             |
 
 ## Additional Details
 

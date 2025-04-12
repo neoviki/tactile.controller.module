@@ -7066,6 +7066,7 @@ W = angled&lt;p&gt;
 <wire x1="129.54" y1="96.52" x2="60.96" y2="96.52" width="0.1524" layer="94" style="longdash"/>
 <wire x1="60.96" y1="96.52" x2="60.96" y2="149.86" width="0.1524" layer="94" style="longdash"/>
 <text x="111.76" y="147.32" size="1.778" layer="97" rot="R180">Programmer / Debugger</text>
+<text x="83.82" y="86.36" size="1.778" layer="97">PALM HARDWARE ( SPI )</text>
 <wire x1="264.16" y1="251.46" x2="320.04" y2="251.46" width="0.1524" layer="94" style="longdash"/>
 <wire x1="264.16" y1="251.46" x2="264.16" y2="208.28" width="0.1524" layer="94" style="longdash"/>
 <wire x1="264.16" y1="208.28" x2="320.04" y2="208.28" width="0.1524" layer="94" style="longdash"/>
@@ -7118,6 +7119,7 @@ W = angled&lt;p&gt;
 <instance part="C6" gate="G$1" x="157.48" y="119.38"/>
 <instance part="GND13" gate="1" x="157.48" y="106.68"/>
 <instance part="ACTIVE_NAIL_CONN" gate="A" x="312.42" y="55.88" smashed="yes">
+<attribute name="NAME" x="319.405" y="44.45" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="306.07" y="48.26" size="1.778" layer="96"/>
 </instance>
 <instance part="TACTILE_FT_CONN" gate="A" x="317.5" y="154.94" smashed="yes">
