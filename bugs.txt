@@ -1,3 +1,5 @@
+# Bugs
+
 In Tactile CTR the following PINS are not working
 
  MOSI0 : RA4
@@ -7,7 +9,7 @@ In Tactile CTR the following PINS are not working
 
  in the next hardware don't use RA4 and RB4.
 
- Also don't use RB11 and RB13 ( I didn't test these pins, it might work but try not to use )
+# Recommendation
 
- In the finger tip design, don't use these pins.
+ Also don't use RB11 and RB13 ( I didn't test these pins, it might work but try not to use )
 
