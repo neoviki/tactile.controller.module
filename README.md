@@ -1,6 +1,6 @@
 # Tactile Controller Module
 
-The **Tactile Controller Module** is a compact, high-performance interface board powered by the **PIC32MM0256GPM036** microcontroller in a UQFN 40-pin package. It is designed to sample and manage data from high-density tactile sensor arrays and enables flexible communication using I²C, hardware SPI (HW SPI), and software SPI (SW SPI) protocols.
+The Tactile Controller Module is an interface board designed to read tactile sensor data from a dedicated sensor module containing 36 sensors (currently under development and not yet publicly available). It is powered by the PIC32MM0256GPM036 microcontroller in a UQFN 40-pin package. The module is built to sample and manage data from high-density tactile sensor arrays, offering flexible communication options via I²C, hardware SPI (HW SPI), and software SPI (SW SPI) protocols.
 
 ## Features
 
@@ -15,7 +15,7 @@ The **Tactile Controller Module** is a compact, high-performance interface board
 
 ## Use Case
 
-The module is primarily used to sample sensor data from high-density tactile controllers, which can be interfaced using the software SPI protocol. Ideal for robotics, touch-sensitive interfaces, or pressure-mapping applications.
+The controller module is primarily used to sample sensor data from a high-density tactile sensing module with 36 sensors. It communicates with the tactile sensing module using a software SPI protocol. Designed for applications such as robotics, touch-sensitive interfaces, and pressure-mapping systems, the tactile sensing module provides detailed tactile measurements, specifically pressure data. The controller runs essential firmware to acquire and format the sampled data, and transmits the tactile sensor data to an external system (such as a connected computer or robot) via a hardware SPI protocol.
 
 ## Board Images
 
